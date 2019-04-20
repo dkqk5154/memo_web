@@ -6,7 +6,8 @@ React + Express 를 활용한 웹 메모장입니다.
 # 활용기술
 * React 
 * Express   
-* Gatsby   
+* Gatsby
+* Ngnix
 * BootStrap  
 * Styled components   
 * SweetAlert2   
